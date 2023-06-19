@@ -87,14 +87,6 @@
 					<configuration>
 						<repoToken>Nc9tXKqybbj2IrEm5FLrw4rPjy4Xp4Jft</repoToken>
 					</configuration>
-					<executions>
-						<execution>
-							<phase>install</phase>
-							<goals>
-								<goal>report</goal>
-							</goals>
-						</execution>
-					</executions>
 				</plugin>
 				<plugin>
 					<groupId>org.jacoco</groupId>
